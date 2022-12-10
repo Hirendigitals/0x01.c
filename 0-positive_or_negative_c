@@ -11,4 +11,5 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
 	return (0);
-}
+} julien@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-positive_or_negative.c -o 0-positive_or_negative
+
